@@ -1,0 +1,10 @@
+ Link for RASA Virtual Environment Used in this Project
+ It is Drive Link 
+ As the File size id more than 470 mb even after Compressing so I have to Use This Method
+
+
+link :- "https://drive.google.com/file/d/1RaTR31aKtzAm25fFG7sGAcNfO0ykZmOu/view?usp=sharing"
+
+
+
+Must Download file and extract in the folder use have to create the project 
